@@ -1,0 +1,15 @@
+google-generativeai
+langchain
+langchain-google-genai
+langchain-community
+chromadb
+sentence-transformers
+streamlit
+playwright
+beautifulsoup4
+requests
+apscheduler
+reportlab
+plyer
+cryptography
+python-dotenv

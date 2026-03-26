@@ -1,0 +1,56 @@
+# Environment and secrets
+.env
+.env.local
+.env.production
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Database files
+*.db
+*.sqlite
+*.sqlite3
+database/*.db
+database/autoapply.db
+
+# Output directories
+outputs/
+chrome_profile/
+
+# IDE and editor files
+.vscode/
+.idea/
+.windsurf/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+*.temp
+
+# Chroma vector database
+chroma_db/
+
+# Archive (keep structure but ignore large files)
+archive/*.html
+archive/*.htm

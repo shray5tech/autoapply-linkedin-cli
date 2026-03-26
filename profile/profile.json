@@ -1,0 +1,164 @@
+{
+  "personal": {
+    "name": "Shray Bisht",
+    "email": "shray.bisht94@yahoo.com",
+    "phone": "+91-8130574974",
+    "location": "Noida, Uttar Pradesh, India",
+    "linkedin": "https://www.linkedin.com/in/shray-bisht-645465aa/",
+    "github": "https://github.com/shray5tech"
+  },
+  "experience": [
+    {
+      "company": "American Express",
+      "title": "Customer Analytics Analyst",
+      "duration": "Jun 2021 – Sep 2025 (4 years)",
+      "achievements": [
+        "Applied Logistic Regression on ML-labeled call data (VIBE scores), engineering custom features from raw call metrics (handle time, tonality, dead air, talk time) — improved VIBE score from 78% to 81% and reduced Average Handle Time from 370s to 350s",
+        "Designed and executed A/B experiment to validate VIBE improvement interventions — confirmed statistical significance of sentiment and efficiency gains against control population",
+        "Analyzed large datasets of customer complaints and credit card issues using SQL and Python, surfacing actionable recommendations to senior leadership",
+        "Designed Power BI dashboards with DAX calculations to visualize team performance metrics — enabling data-driven decisions across 150+ stakeholders",
+        "Conducted statistical analysis of call center metrics using Python (Pandas, NumPy), resulting in 6% increase in customer satisfaction",
+        "Built SQL-based reporting system to track irregular patterns, optimizing query performance through indexing and joins",
+        "Automated repetitive reporting tasks using Python scripts, reducing manual effort and ensuring data accuracy across business units",
+        "Performed sentiment analysis, created word clouds, and presented internal complaint findings to leadership",
+        "Facilitated training sessions for 50+ team members on data analysis best practices"
+      ]
+    },
+    {
+      "company": "British Airways",
+      "title": "Consultant - Ticketing",
+      "duration": "Sep 2018 – Jun 2021 (3 years)",
+      "achievements": [
+        "Developed SQL queries and Excel dashboards to analyze operational data, supporting commercial team decision-making and performance tracking",
+        "Conducted quality assurance evaluations ensuring compliance with data security standards and service protocols",
+        "Collaborated with cross-functional teams to provide data support for operational improvement projects",
+        "Worked US/UK shift hours supporting international operations"
+      ]
+    },
+    {
+      "company": "Electronic Arts (EA)",
+      "title": "Technical Support Analyst",
+      "duration": "Feb 2017 – Jun 2018 (1 year)",
+      "achievements": [
+        "Analyzed customer support data to identify patterns and streamline resolution processes, improving average resolution time",
+        "Conducted game testing and troubleshooting to contribute to product quality improvements and customer satisfaction"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Master of Science – AI/ML (Data Science)",
+      "institution": "Woolf University (via Scaler)",
+      "year": "2024"
+    },
+    {
+      "degree": "Bachelor of Commerce (B.Com)",
+      "institution": "Jodhpur National University",
+      "year": "2015"
+    }
+  ],
+  "certifications": [
+    "Project Analyst Certification – American Express (June 2024)",
+    "Exploratory Data Analysis (EDA) Fundamentals – Scaler (July 2024)",
+    "Python Libraries (Pandas, NumPy, Matplotlib) – Scaler (June 2024)",
+    "SQL Fundamentals – Scaler (May 2024)"
+  ],
+  "projects": [
+    {
+      "name": "AutoApply",
+      "description": "AI-powered personal job application automation system. 8 agents handling job scraping, resume tailoring, cover letter generation, automated form submission, follow-up emails, and rejection pattern analysis.",
+      "tech_stack": ["Python", "Gemini API", "LangChain", "Playwright", "Selenium", "BeautifulSoup", "SQLite", "Streamlit", "APScheduler", "sentence-transformers", "dotenv", "Git", "GitHub", "VS Code", "Windsurf"],
+      "github_url": "https://github.com/shray5tech/AutoApply",
+      "highlights": ["50-100 personalized applications/day", "ATS-optimized resume tailoring", "Full audit trail", "A/B testing framework"]
+    },
+    {
+      "name": "SupportAI",
+      "description": "RAG-based customer support chatbot for fictional company Nexus Financial Services. Zero hallucination, multi-turn memory (k=5), password-protected Streamlit UI.",
+      "tech_stack": ["Gemini 2.5 Flash", "LangChain", "ChromaDB", "sentence-transformers", "Streamlit", "Python", "RAG", "Vector Database"],
+      "github_url": "https://github.com/shray5tech/SupportAI",
+      "highlights": ["Zero hallucination design", "ConversationalRetrievalChain", "Persistent vector DB"]
+    },
+    {
+      "name": "Telco Customer Churn Prediction",
+      "description": "End-to-end ML pipeline predicting customer churn with 84.7% ROC-AUC. Includes Flask API, Gemini AI integration, web interface, and $259K business impact analysis.",
+      "tech_stack": ["Python", "XGBoost", "scikit-learn", "Flask", "Gemini API", "Pandas", "NumPy", "Matplotlib", "Feature Engineering", "Hyperparameter Tuning"],
+      "github_url": "https://github.com/shray5tech/Customer-Churn-Prediction",
+      "highlights": ["84.7% ROC-AUC", "$259K business impact", "Hyperparameter tuned", "Flask API deployed"]
+    }
+  ],
+  "skills": [
+    "Python", "SQL", "SQLite", "PostgreSQL", "MySQL",
+    "Machine Learning", "Deep Learning", "XGBoost", "Random Forest",
+    "Logistic Regression", "Decision Trees", "Gradient Boosting", "Neural Networks",
+    "Scikit-learn", "Pandas", "NumPy", "Matplotlib", "Seaborn", "Plotly",
+    "Flask", "Streamlit", "FastAPI", "REST API", "API Integration",
+    "LangChain", "RAG", "Retrieval Augmented Generation", "ChromaDB", "FAISS",
+    "Vector Database", "Sentence Transformers", "Hugging Face",
+    "Gemini API", "OpenAI API", "LLM", "Large Language Models",
+    "Generative AI", "Prompt Engineering", "NLP", "Sentiment Analysis",
+    "Text Classification", "Named Entity Recognition",
+    "Feature Engineering", "EDA", "Data Analysis", "Data Preprocessing",
+    "Statistical Modeling", "Hypothesis Testing", "A/B Testing",
+    "Predictive Modeling", "Customer Analytics", "Churn Prediction",
+    "Recommendation Systems", "Time Series Analysis", "Customer Segmentation",
+    "Model Evaluation", "Model Deployment", "Hyperparameter Tuning", "Cross Validation",
+    "Data Visualization", "Power BI", "Tableau", "DAX", "Excel",
+    "Web Scraping", "Selenium", "Playwright", "BeautifulSoup", "Requests",
+    "Automation", "Python Scripting", "ETL", "Data Pipelines",
+    "Git", "GitHub", "VS Code", "Windsurf", "Jupyter Notebook", "Google Colab",
+    "Virtual Environments", "dotenv", "JSON", "Database Design", "Schema Design",
+    "Docker", "AWS Basics", "Azure Basics", "Google Cloud Basics", "PySpark Basics",
+    "PyTorch", "TensorFlow", "Computer Vision Basics", "APScheduler",
+    "HTML", "CSS", "Agile", "Problem Solving", "Quick Learner",
+    "Communication", "Cross-functional Collaboration", "Leadership", "Stakeholder Management"
+  ],
+  "job_targets": {
+    "roles": [
+      "Data Scientist", "ML Engineer", "Machine Learning Engineer",
+      "AI Engineer", "Applied Scientist", "Research Scientist",
+      "NLP Engineer", "MLOps Engineer", "Data Analyst",
+      "Analytics Engineer", "Decision Scientist", "AI/ML Engineer",
+      "Generative AI Engineer", "LLM Engineer", "AI Research Engineer",
+      "Product Analyst", "AI Product Analyst", "Growth Analyst",
+      "Business Analyst", "Product Data Scientist", "AI Product Manager",
+      "Analytics Manager", "Product Manager AI"
+    ],
+    "locations": [
+      "Noida", "Delhi", "Gurugram", "Gurgaon", "NCR",
+      "Remote", "Bengaluru", "Bangalore", "Hyderabad", "Pune", "Mumbai"
+    ],
+    "min_salary_lpa": 12,
+    "target_salary_lpa": 20,
+    "blacklisted_companies": [],
+    "employment_type": ["Full-time", "Contract"],
+    "experience_level": ["Mid-level", "Senior"]
+  },
+  "company_tiers": {
+    "tier1_high_pay": [
+      "google", "microsoft", "amazon", "meta", "apple", "netflix",
+      "flipkart", "swiggy", "zomato", "meesho", "razorpay", "cred",
+      "phonepe", "paytm", "groww", "zepto", "moengage", "clevertap",
+      "american express", "amex", "deloitte", "mckinsey", "bcg", "bain",
+      "goldman sachs", "jpmorgan", "jp morgan", "barclays", "hsbc",
+      "morgan stanley", "adobe", "salesforce", "oracle", "servicenow",
+      "myntra", "nykaa", "bigbasket", "urban company", "lenskart",
+      "cars24", "delhivery", "uber", "linkedin", "twitter", "x",
+      "walmart", "target", "sap", "workday", "atlassian", "twilio",
+      "sprinklr", "freshworks", "browserstack", "postman", "chargebee",
+      "niyo", "slice", "jupiter", "fi money", "smallcase"
+    ],
+    "tier2_mid_pay": [
+      "infosys", "wipro", "tcs", "hcl", "tech mahindra",
+      "capgemini", "cognizant", "mphasis", "hexaware", "ltimindtree",
+      "persistent", "coforge", "zensar", "birlasoft", "sonata"
+    ],
+    "tier3_low_pay_keywords": [
+      "staffing", "outsourcing", "bpo", "recruitment", "manpower"
+    ]
+  },
+  "resume_versions": {
+    "ml_engineer": "profile/resume_v1_ml.pdf",
+    "data_scientist": "profile/resume_v2_ds.pdf",
+    "ai_engineer": "profile/resume_v3_ai.pdf"
+  }
+}
